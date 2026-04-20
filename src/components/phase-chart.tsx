@@ -44,10 +44,15 @@ export function PhaseChart({ data }: { data: Row[] }) {
               borderRadius: "8px",
             }}
             labelStyle={{ color: "#e2e8f0" }}
-            formatter={(value: number | undefined, _name, item) => [
-              `${value}% (${item?.payload?.done}/${item?.payload?.total})`,
-              "Done",
-            ]}
+            formatter={(value, _name, item) => {
+              const raw = Array.isArray(value) ? value[0] : value;
+              const pct = Number(raw);
+              const safePct = Number.isFinite(pct) ? pct : 0;
+              const payload = item?.payload as Row | undefined;
+              const done = payload?.done ?? 0;
+              const total = payload?.total ?? 0;
+              return [`${safePct}% (${done}/${total})`, "Done"];
+            }}
           />
           <Bar dataKey="pct" fill="#3b82f6" radius={[0, 4, 4, 0]} />
         </BarChart>
