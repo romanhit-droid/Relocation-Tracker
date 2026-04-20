@@ -52,5 +52,5 @@ export function uniqueStrings(values: (string | null | undefined)[]): string[] {
   for (const v of values) {
     if (v && v.trim()) s.add(v.trim());
   }
-  return [...s].sort((a, b) => a.localeCompare(b));
+  return Array.from(s).sort((a, b) => a.localeCompare(b));
 }
