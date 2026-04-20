@@ -49,7 +49,7 @@ export function progressByPhase(tasks: Task[]): { phase: string; pct: number; do
     if (t.status === "Done") cur.done += 1;
     map.set(p, cur);
   }
-  return [...map.entries()]
+  return Array.from(map.entries())
     .map(([phase, { done, total }]) => ({
       phase,
       done,
