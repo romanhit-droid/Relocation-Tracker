@@ -1,0 +1,32 @@
+[
+  {
+    "trip": "Trip 1",
+    "timing": "Late May / early June 2026",
+    "length": "2-3 days",
+    "purpose": "Pre-handover planning, measurements, supplier selection, commute test"
+  },
+  {
+    "trip": "Trip 2",
+    "timing": "Around June 11, 2026 handover",
+    "length": "6-7 days",
+    "purpose": "Handover, snagging, utilities, ordering essentials"
+  },
+  {
+    "trip": "Trip 3",
+    "timing": "Late July 2026",
+    "length": "2-4 days",
+    "purpose": "Final setup, safety, stock house, car, school routine dry run"
+  },
+  {
+    "trip": "Final pre-move",
+    "timing": "2 weeks to 1 week before move",
+    "length": "",
+    "purpose": "Reconfirm services, pack, document control"
+  },
+  {
+    "trip": "Arrival week",
+    "timing": "Mid-August 2026",
+    "length": "",
+    "purpose": "Settle in, keep routines calm, launch school/kindergarten smoothly"
+  }
+]

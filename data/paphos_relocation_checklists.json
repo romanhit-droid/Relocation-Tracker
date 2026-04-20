@@ -1,0 +1,3046 @@
+{
+  "tasks": [
+    {
+      "Section": "From Israel",
+      "Phase": "Planning & paperwork",
+      "Task": "Create master relocation tracker",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Planning & paperwork",
+      "Task": "Create budget covering appliances, furniture, utilities, car, yard, security, contingency",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Planning & paperwork",
+      "Task": "Collect passports, birth certificates, marriage certificate, school/kindergarten confirmations",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Planning & paperwork",
+      "Task": "Collect medical and vaccination records for all children",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Planning & paperwork",
+      "Task": "Create digital folder with all family/property documents",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Planning & paperwork",
+      "Task": "Build master contact list (developer, lawyer, utilities, school/KG, installers, insurance, car providers)",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Ask developer for updated construction timeline",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Ask developer to confirm what will be complete by handover",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Request kitchen drawings and appliance niche dimensions",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Request laundry dimensions",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Request warranties/manuals list",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Request PV installer details, inverter model, monitoring app details",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Request pool cover instructions and handover process",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Request water softener / under-sink filtration installer contact",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Confirm utility meter/account readiness for activation or transfer",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Developer & house coordination",
+      "Task": "Confirm responsibility matrix: snag fixes, PV commissioning, pool handover, AC commissioning, water systems",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Shortlist appliance suppliers in Paphos/Cyprus",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Shortlist furniture suppliers",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Shortlist internet providers",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Shortlist security/camera installers",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Shortlist pool maintenance companies",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Shortlist landscaping companies for Phase 1 yard setup",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Compare used-car options and rental fallback options",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Prepare appliance list: fridge/freezer, oven, hob, extractor, dishwasher, washer, dryer, microwave, kettle, toaster",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Prepare furniture list: beds/cots, mattresses, sofa, dining set, storage, basic outdoor seating, blackout solutions",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Shopping & supplier prep",
+      "Task": "Prepare child-safety list: stair gates, cabinet locks, socket covers, anchors, baby monitors, blackout items, high chairs",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Confirm official start dates",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Confirm orientation / first-day arrangements",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Confirm drop-off and pickup times",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Confirm snack/lunch requirements",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Confirm clothing/uniform requirements",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Confirm bedding/nap requirements for little ones",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Confirm required health / medical forms",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Confirm emergency contact details on file",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Confirm whether there is a gradual adaptation process for younger children",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "School / KG onboarding",
+      "Task": "Prepare first-week routine plan for mornings and pickups",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Between trips",
+      "Task": "Weekly follow-up with developer on build progress",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Between trips",
+      "Task": "Weekly follow-up on snag closure",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Between trips",
+      "Task": "Weekly follow-up on supplier delivery dates",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Between trips",
+      "Task": "Keep budget updated",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Between trips",
+      "Task": "Keep decisions log updated",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Between trips",
+      "Task": "Assign owners to all open tasks",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Between trips",
+      "Task": "By mid-July: ensure all essential orders are placed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Between trips",
+      "Task": "By mid-July: ensure all critical service appointments are scheduled",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "From Israel",
+      "Phase": "Between trips",
+      "Task": "By mid-July: finalize car plan",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Main goals",
+      "Task": "Confirm house progress against expected handover",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Main goals",
+      "Task": "Measure everything needed for orders",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Main goals",
+      "Task": "Meet key suppliers",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Main goals",
+      "Task": "Lock major decisions early",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Main goals",
+      "Task": "Test school/kindergarten commute from the house",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Walk the entire house and exterior",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Compare actual build to contract appendix",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Confirm AC units installed/planned in correct locations",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Confirm wardrobes/storage are in place as expected",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Confirm kitchen cabinetry layout matches drawings",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Confirm laundry cabinetry/counter layout",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Check pool and pool cover progress",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Check mosquito nets",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Check roof access and roof room/bathroom readiness",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Check external water/power points",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Check parking/driveway/gate situation",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "House walkthrough",
+      "Task": "Assess yard condition and scope for Phase 1 landscaping",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Measure fridge space",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Measure oven / hob / extractor spaces",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Measure dishwasher space",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Measure washer/dryer spaces",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Measure key bedroom wall dimensions",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Measure windows for blackout solutions",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Photograph every room",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Photograph utility/meter areas",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Photograph pool area",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Photograph yard from multiple angles",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Measurements / photos",
+      "Task": "Photograph kitchen/laundry from all sides",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Meet developer/site manager",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Meet appliance supplier(s)",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Meet furniture supplier(s)",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Talk to internet provider or local rep",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Talk to water softener / filtration installer",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Talk to security installer",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Talk to landscaper",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Talk to used-car dealer or rental provider",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Choose final appliance shortlist",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Choose final beds/cots plan",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Decide whether to install cameras before move",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Decide whether to do temporary landscaping only or more",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Decide whether to buy or rent a car initially",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Meetings & decisions",
+      "Task": "Decide whether blackout solutions will be temporary or permanent before move-in",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Kids / route logistics",
+      "Task": "Visit school/kindergarten if useful",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Kids / route logistics",
+      "Task": "Confirm access/parking/drop-off routine",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Kids / route logistics",
+      "Task": "Drive route from house to school/kindergarten at morning time",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Kids / route logistics",
+      "Task": "Note actual travel time in morning traffic",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Kids / route logistics",
+      "Task": "Identify easiest family route for drop-off / return",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Leave Cyprus with",
+      "Task": "Full measurement set",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Leave Cyprus with",
+      "Task": "Full photo/video set",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Leave Cyprus with",
+      "Task": "Supplier shortlist",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Leave Cyprus with",
+      "Task": "Draft shopping list",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Leave Cyprus with",
+      "Task": "Pre-handover/snag notes",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 1",
+      "Phase": "Leave Cyprus with",
+      "Task": "Commute timing notes",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Collect all keys",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Collect remotes/fobs/gate controls",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Collect manuals and warranties",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Collect contractor contact details",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Confirm paint/tile/material references",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Confirm final included items against contract appendix",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test all doors and locks",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test all windows and mosquito nets",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test AC units",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test lights and switches",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test water pressure",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test hot water",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test drains",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test kitchen cabinetry and drawers",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test wardrobes/sliding systems",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test bathroom fixtures",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test laundry area",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test pool cover",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Test outdoor sink/shower/BBQ elements",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Handover",
+      "Task": "Review PV system handover details",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Snagging",
+      "Task": "Photograph every issue",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Snagging",
+      "Task": "Note room/location for every issue",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Snagging",
+      "Task": "Classify each issue: critical / important / cosmetic",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Snagging",
+      "Task": "Assign responsible party for each issue",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Snagging",
+      "Task": "Record promised completion date for each issue",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Snagging",
+      "Task": "Create dedicated snag tracker",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm electricity account activation process",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm water account activation process",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Submit required utility paperwork",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Capture account/reference numbers",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm billing names/details",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm internet installation appointment",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm PV system is commissioned",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Get PV installer contact",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Get inverter model and serial",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Get monitoring app/login",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm whether any PV metering/utility step is still pending",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm PV warranty details",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm water softener installation date",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm under-sink filtration installation date",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Confirm whether physical presence is needed for water-system installer",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Choose pool maintenance company",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Utilities & systems",
+      "Task": "Schedule regular pool service",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order fridge/freezer",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order oven",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order hob",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order extractor",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order dishwasher",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order washing machine",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order dryer",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order master bed + mattress",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order children’s beds/cots + mattresses",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order sofa",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order dining table + chairs",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order blackout solution",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order basic outdoor seating if feasible",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Order router / mesh Wi-Fi if needed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Book internet installation",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Book water-system installation",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Book snag follow-up visit(s)",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Book security installation if proceeding",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Book initial yard works if proceeding",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Ordering & booking",
+      "Task": "Capture delivery dates for all essentials",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Child safety",
+      "Task": "Decide stair gate locations",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Child safety",
+      "Task": "Decide cabinet lock needs",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Child safety",
+      "Task": "Decide socket cover needs",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Child safety",
+      "Task": "Identify furniture that must be anchored",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Child safety",
+      "Task": "Define pool safety routine",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Child safety",
+      "Task": "Decide on camera coverage for outdoor/pool area",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Child safety",
+      "Task": "Decide where monitors/night lights will go",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Car / transport",
+      "Task": "Inspect used-car options or confirm rental route",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Car / transport",
+      "Task": "Confirm insurance process",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Car / transport",
+      "Task": "Confirm registration/transfer steps",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Car / transport",
+      "Task": "Confirm timing for delivery or pickup",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Car / transport",
+      "Task": "Confirm car-seat plan",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Car / transport",
+      "Task": "Decide whether a bridge rental is needed for first weeks",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Leave Cyprus with",
+      "Task": "Signed handover",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Leave Cyprus with",
+      "Task": "Written snag list",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Leave Cyprus with",
+      "Task": "Utility setup in motion",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Leave Cyprus with",
+      "Task": "Essential orders placed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Leave Cyprus with",
+      "Task": "Installations booked",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Leave Cyprus with",
+      "Task": "Car decision made",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 2",
+      "Phase": "Leave Cyprus with",
+      "Task": "Critical next-step dates in calendar",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Recheck all critical snags",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm cosmetic snags are acceptable for move-in",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm all appliances delivered",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm all appliances installed and working",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm beds/cots assembled",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm sofa and dining setup in place",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm laundry works",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm internet works",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm AC works in all rooms",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm hot water works",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm pool cover works reliably",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "House readiness",
+      "Task": "Confirm cameras/security work if installed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Make master bedroom ready",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Make kids’ sleeping spaces ready",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Put mattresses, bedding, protectors in place",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Set up bathrooms with basics",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Set up kitchen basics",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Set up laundry basics",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Set up one calm play area",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Set up charging points",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Set up baby monitor positions",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Set up the house",
+      "Task": "Put night lights in place",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Stock the house",
+      "Task": "Buy towels, sheets, pillows, blankets",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Stock the house",
+      "Task": "Buy toilet paper, soap/shampoo, cleaning supplies",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Stock the house",
+      "Task": "Buy laundry detergent, dish soap, garbage bags",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Stock the house",
+      "Task": "Buy basic cookware, plates, cups, cutlery",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Stock the house",
+      "Task": "Buy kids’ cups/bowls",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Stock the house",
+      "Task": "Stock snacks, milk, breakfast basics, freezer basics",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Stock the house",
+      "Task": "Stock bottled water initially if needed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Stock the house",
+      "Task": "Buy first-aid supplies and thermometer",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Stock the house",
+      "Task": "Buy basic medicines",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Child safety final",
+      "Task": "Install stair gates",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Child safety final",
+      "Task": "Install outlet covers",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Child safety final",
+      "Task": "Install cabinet locks where needed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Child safety final",
+      "Task": "Anchor unstable furniture",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Child safety final",
+      "Task": "Check balcony/roof access safety",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Child safety final",
+      "Task": "Recheck pool area routine",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Child safety final",
+      "Task": "Remove packaging / trip hazards / sharp objects",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Child safety final",
+      "Task": "Make yard safe for supervised play",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Yard / landscaping Phase 1",
+      "Task": "Remove hazards/debris",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Yard / landscaping Phase 1",
+      "Task": "Level obvious unsafe spots",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Yard / landscaping Phase 1",
+      "Task": "Confirm boundary/gates are secure",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Yard / landscaping Phase 1",
+      "Task": "Create one usable kid area",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Yard / landscaping Phase 1",
+      "Task": "Add temporary shade if possible",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Yard / landscaping Phase 1",
+      "Task": "Ensure yard will not become muddy/impossible after irrigation or cleaning",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Car / transport final",
+      "Task": "Pick up car or confirm rental",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Car / transport final",
+      "Task": "Complete insurance",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Car / transport final",
+      "Task": "Complete registration/transfer if applicable",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Car / transport final",
+      "Task": "Install car seats",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Car / transport final",
+      "Task": "Check stroller fit in trunk",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Car / transport final",
+      "Task": "Test school/kindergarten route again",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Car / transport final",
+      "Task": "Test parking/drop-off flow",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "School/KG dry run",
+      "Task": "Drive from house at morning time",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "School/KG dry run",
+      "Task": "Check real drive duration",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "School/KG dry run",
+      "Task": "Check parking/drop-off",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "School/KG dry run",
+      "Task": "Check pickup practicality",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "School/KG dry run",
+      "Task": "Decide morning wake-up time",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "School/KG dry run",
+      "Task": "Decide departure time",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "School/KG dry run",
+      "Task": "Decide who handles each child",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "School/KG dry run",
+      "Task": "Decide backup plan if a child is tired/sick/upset",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Leave Cyprus with",
+      "Task": "House is functional",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Leave Cyprus with",
+      "Task": "House is safe",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Leave Cyprus with",
+      "Task": "House is cool (AC ready)",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Leave Cyprus with",
+      "Task": "House is sleep-ready",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Leave Cyprus with",
+      "Task": "House is internet-ready",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Trip 3",
+      "Phase": "Leave Cyprus with",
+      "Task": "School-routine plan is ready",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Reconfirm all deliveries and installation dates",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Reconfirm utility activation",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Reconfirm internet installation completed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Reconfirm water-system installation completed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Reconfirm pool service started",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Reconfirm car availability",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Reconfirm school/kindergarten first-day details",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Arrange grocery delivery or first shopping plan",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Prepare travel bags for children",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Prepare carry-on folder with all critical documents",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "2 weeks before move",
+      "Task": "Confirm airport transfer and child-seat logistics if needed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "1 week before move",
+      "Task": "Confirm final cleaning of house",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "1 week before move",
+      "Task": "Confirm beds/cots are assembled",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "1 week before move",
+      "Task": "Confirm fridge is running",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "1 week before move",
+      "Task": "Confirm AC is running",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "1 week before move",
+      "Task": "Confirm Wi-Fi is working",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "1 week before move",
+      "Task": "Confirm keys/remotes are accessible",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "1 week before move",
+      "Task": "Confirm safety items are installed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "1 week before move",
+      "Task": "Confirm basic supplies are in the house",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "1 week before move",
+      "Task": "Pack first 72-hours essentials separately",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack clothes for each child",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack diapers/wipes if relevant",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack medications and thermometer",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack favorite comfort items",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack chargers",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack school/kindergarten essentials",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack sleep essentials",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack snacks",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack basic toiletries",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Final pre-move",
+      "Phase": "First 72-hours bag",
+      "Task": "Pack one set of sheets/pajamas easily accessible",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Get everyone sleeping comfortably",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Check fridge/freezer",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Check AC in all sleeping rooms",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Check showers/baths",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Check laundry",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Check Wi-Fi",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Check car seats and transport",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Keep meals simple",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Keep evenings calm",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 1-2",
+      "Task": "Do not schedule unnecessary appointments",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 3-5",
+      "Task": "Do one grocery restock",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 3-5",
+      "Task": "Fine-tune room setup",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 3-5",
+      "Task": "Fine-tune childproofing",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 3-5",
+      "Task": "Test school/kindergarten routine once more if needed",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 3-5",
+      "Task": "Confirm all documents/bags ready for first day",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "Day 3-5",
+      "Task": "Identify nearest pharmacy / pediatric support / supermarket",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "School/KG first days",
+      "Task": "Lay out clothes the night before",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "School/KG first days",
+      "Task": "Prepare bags the night before",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "School/KG first days",
+      "Task": "Leave early",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "High",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "School/KG first days",
+      "Task": "Expect slower mornings than planned",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "School/KG first days",
+      "Task": "Keep afternoons light",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "School/KG first days",
+      "Task": "Expect tiredness and some emotional overload",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Low",
+      "Notes / Vendor / Contact": null
+    },
+    {
+      "Section": "Arrival week",
+      "Phase": "School/KG first days",
+      "Task": "Avoid stacking social commitments during first week",
+      "Owner": null,
+      "Target date": null,
+      "Status": "Not started",
+      "Priority": "Medium",
+      "Notes / Vendor / Contact": null
+    }
+  ],
+  "trip_schedule": [
+    {
+      "Trip / phase": "Trip 1",
+      "Suggested timing": "Late May / early June 2026",
+      "Suggested length": "2-3 days",
+      "Primary purpose": "Pre-handover planning, measurements, supplier selection, commute test"
+    },
+    {
+      "Trip / phase": "Trip 2",
+      "Suggested timing": "Around June 11, 2026 handover",
+      "Suggested length": "6-7 days",
+      "Primary purpose": "Handover, snagging, utilities, ordering essentials"
+    },
+    {
+      "Trip / phase": "Trip 3",
+      "Suggested timing": "Late July 2026",
+      "Suggested length": "2-4 days",
+      "Primary purpose": "Final setup, safety, stock house, car, school routine dry run"
+    },
+    {
+      "Trip / phase": "Final pre-move",
+      "Suggested timing": "2 weeks to 1 week before move",
+      "Suggested length": null,
+      "Primary purpose": "Reconfirm services, pack, document control"
+    },
+    {
+      "Trip / phase": "Arrival week",
+      "Suggested timing": "Mid-August 2026",
+      "Suggested length": null,
+      "Primary purpose": "Settle in, keep routines calm, launch school/kindergarten smoothly"
+    }
+  ],
+  "columns": [
+    "Section",
+    "Phase",
+    "Task",
+    "Owner",
+    "Target date",
+    "Status",
+    "Priority",
+    "Notes / Vendor / Contact"
+  ]
+}
